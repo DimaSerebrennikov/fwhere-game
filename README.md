@@ -1,4 +1,4 @@
-Это 2д игра, которую я создал ещё в 2023 году. Её концепция состоит в том, что игрок не видит противник, но у него есть глаза, которые смотрят на противников и передвигая их он должен держать их в безопасности.
+This is a 2D game that I created back in 2023. Its concept is that the player cannot see the enemy, but he has eyes that look at the enemies and by moving them he must keep them safe.
 
 [Video](https://youtu.be/WhHAp9I3KW8)
 
